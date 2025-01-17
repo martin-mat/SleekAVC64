@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SleekAVC64")(type "KiCad")(uri "$(KIPRJMOD)/SleekAVC64.pretty")(options "")(descr ""))
+)
